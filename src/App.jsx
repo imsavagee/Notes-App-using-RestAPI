@@ -12,7 +12,7 @@ function App() {
     <BrowserRouter>
     <Routes>
       {/* <Route path="/"  element={<LoginForm/>}/> */}
-      <Route path="/" element={<Post/>}/>
+      <Route path="/Notes-App-using-RestAPI/" element={<Post/>}/>
       {/* <Route path={"/home"} element={<Post/>}/> */}
     </Routes>
     </BrowserRouter>
